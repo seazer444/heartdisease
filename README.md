@@ -10,7 +10,8 @@ Using PCA, logistic regression/ANCOVA and AIC to determine 1) if age and sex can
 ### dependencies
 
 * Packages used: ggplot2, tidyverse, janitor, factoextra, vegan, car, AICcmodavg, emmeans
-* Works better on RStudio than Base R  
+* Works better on RStudio than Base R
+* Residual plots must be manually processed (prompt to view all 4 must be run) before next lines are run  
 
 ## authors
 
