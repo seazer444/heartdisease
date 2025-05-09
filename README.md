@@ -1,9 +1,9 @@
 
-# heart disease analysis:
+# heart disease analysis
 
 Dataset is from hospital admissions reporting chest pain & amalgamates 5 different datasets. 1190 total observations, 746 final observations used in analysis ommitting duplications and NA counts. CSV file. 
 
-## how/what: 
+## how/what 
 
 Using PCA, logistic regression/ANCOVA and AIC to determine 1) if age and sex can predict exercise-induced angina, 2) if cholesterol levels and resting ECG results can be predictive of an exercise-induced angina, and 3) if the occurence of an exercise induced angina predicts heart disease. R FILE. 
 
