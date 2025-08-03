@@ -15,4 +15,4 @@ Using PCA, logistic regression/ANCOVA and AIC to determine 1) if age and sex can
 
 ## authors
 
-5 person group project. Original PCA ANCOVA and AIC not mine - each created independently by respective group members. I integrated and compiled analyses into a cohesive & functional pipeline to resolve compatability/syntax issues and ensuring script functionality as a unit; troubleshooted & standardized code syntax for consistency and better integration/function as a coordinated analyses rather than seperate statistical methods 
+5 person group project. I integrated and compiled analyses into a cohesive & functional pipeline to resolve compatability/syntax issues and ensuring script functionality as a unit; troubleshooted & standardized code syntax for consistency and better integration/function as a coordinated analyses rather than seperate statistical methods 
